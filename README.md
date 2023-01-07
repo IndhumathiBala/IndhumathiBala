@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **indhumathi.b2020cse@sece.ac.in**
 
-- 📄 Know about my experiences [indhu-b.netlify.app](indhumathib.netlify.app)
+- 📄 Know about my experiences [indhu-b.netlify.app](indhu-b.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
