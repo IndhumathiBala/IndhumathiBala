@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IndhumathiBala](https://github.com/IndhumathiBala)
 
-- 💬 Ask me about **Java, C**
+- 💬 Ask me about **Java, C, Javascript**
 
 - 📫 How to reach me **indhumathi.b2020cse@sece.ac.in**
 
