@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IndhumathiBala](https://github.com/IndhumathiBala)
+- 👨‍💻 All of my projects are available at ([https://github.com/IndhumathiBala](https://github.com/IndhumathiBala?tab=repositories))
 
 - 💬 Ask me about **Java, C, Javascript**
 
